@@ -23,7 +23,11 @@ class Photo implements Printable{
 	public void print() {
 		// TODO Auto-generated method stub
 		System.out.println("Printing Photo...");
+	
+	System.out.println("on for the requrimet....");
 	}
+	
+	
 	
 }
 
@@ -37,6 +41,7 @@ public class TestInterface2 {
 		
 		ptble = new Photo();
 		ptble.print();
+		 
 		 
 		
 	}

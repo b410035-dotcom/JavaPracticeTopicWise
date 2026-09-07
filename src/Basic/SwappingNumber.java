@@ -19,7 +19,7 @@ public class SwappingNumber {
 	y=z;
 	
 	System.out.println("Earlier X value is 10 :" +x);
-	System.out.println("Earlier Y value is 79 :" +y);
+	System.out.println(""+y);
 	}
 
 }
